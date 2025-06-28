@@ -4,7 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/CareerPrep.iml" filepath="$PROJECT_DIR$/.idea/CareerPrep.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week1/StudentManagementConsoleApp/StudentManagementConsoleApp.iml" filepath="$PROJECT_DIR$/Week1/StudentManagementConsoleApp/StudentManagementConsoleApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week2/TaskManagerConsoleApp/TaskManagerConsoleApp.iml" filepath="$PROJECT_DIR$/Week2/TaskManagerConsoleApp/TaskManagerConsoleApp.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week1/Week1.iml" filepath="$PROJECT_DIR$/Week1/Week1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week2/Week2.iml" filepath="$PROJECT_DIR$/Week2/Week2.iml" />
     </modules>
   </component>
 </project>
